@@ -1,0 +1,21 @@
+/*
+Scroll up button
+*/
+#suBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  border: none;
+  outline: none;
+  background-color: blue;
+  cursor: pointer;
+  padding: 7px;
+  border-radius: 10px;
+}
+/*
+Scroll up button with a hover effect.
+*/
+#suBtn:hover {
+	background-color: red;
+}
