@@ -8,7 +8,7 @@ Scroll up button
   right: 30px;
   border: none;
   outline: none;
-  background-color: blue;
+  background-color: black;
   cursor: pointer;
   padding: 7px;
   border-radius: 10px;
@@ -17,5 +17,5 @@ Scroll up button
 Scroll up button with a hover effect.
 */
 #suBtn:hover {
-	background-color: red;
+	background-color: white;
 }
