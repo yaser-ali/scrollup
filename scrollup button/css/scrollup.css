@@ -19,3 +19,20 @@ Scroll up button with a hover effect.
 #suBtn:hover {
 	background-color: white;
 }
+
+
+
+/*Do not worry about these styles below.*/
+div {
+	background-color: black;
+	height: 1100px;
+}
+
+h1 {
+	color: white;
+	font-size: 55px;
+}
+
+h2 {
+	font-size: 55px;
+}
